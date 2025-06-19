@@ -271,6 +271,15 @@ h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:h
   color: $accent-color;
 }
 
+.default-img{
+  opacity: 0.2;
+  mix-blend-mode: screen;
+}
+
+.image-shadow-box{
+  background: linear-gradient(0deg, #0000 0%, color-mix(in srgb, $text-color, transparent 90%) 100%)
+}
+
 .post-meta{
   display: block;
 }
@@ -329,12 +338,12 @@ h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:h
   border-radius: 5px;
   border: 1px solid $text-color;
   height: 34px;
-  width: 50px;
   left: 0;
   right: 0;
   position: relative;
   margin: auto;
   margin-bottom: 10px;
+  width: fit-content;
 }
 
 .calendar-controls button{
@@ -389,6 +398,7 @@ h1:hover .octicon, h2:hover .octicon, h3:hover .octicon, h4:hover .octicon, h5:h
   list-style: none;
   display: inline;
   text-transform: uppercase;
+  margin-left: 0px;
 }
 
 .footer-links a{
@@ -403,6 +413,7 @@ footer .wrapper{
 .footer-links li{
   display: inline;
   margin-right: 10px;
+  word-break: keep-all;
 }
 
 .tag-container a{
@@ -438,14 +449,15 @@ select, ::picker(select) {
 
 select {
   border: 2px solid #ddd;
-  background: #eee;
+  background-color: var(--minima-background-color);
+  color: $text-color;
   padding: 8px;
   transition: 0.4s;
 }
 
 select:hover,
 select:focus {
-  background: #ddd;
+  background-color: var(--minima-background-color);
 }
 
 .post-meta{
