@@ -1,4 +1,4 @@
-# osaka.rippedflyer
+# osaka.rippedflyers
 
 Website for gigs in Osaka. WIP Name.
 
