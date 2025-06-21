@@ -6,8 +6,8 @@ accent_colour: "#ff0000"
 # url: https://history.jakelee.co.uk
 future: true
 
-baseurl: /osaka
-url: https://rippedflyers.github.io/osaka
+#baseurl:
+url: https://osaka.rippedflyers.net/
 
 
 #langauge settings for language toggle
@@ -33,7 +33,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      
+
 footer_links:
   - { user_title: 'About', user_url: '/about/'}
   - { user_title: 'GitHub', user_url: "https://github.com/rippedflyers/osaka"}
