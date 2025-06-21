@@ -1,7 +1,7 @@
 # Basic site setup
 remote_theme: JakeSteam/minimaJake
 title: Osaka Ripped Flyers
-description: Local Punk events in Osaka / 大阪のパンクエベント
+description: Gigs and shit in Osaka <br>大阪のライブとかクソみたいなやつ
 accent_colour: "#ff0000"
 # url: https://history.jakelee.co.uk
 future: true
@@ -33,13 +33,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-author:
-  name: vriibot
-  url: 'https://vriibot.com'
-
+      
 footer_links:
   - { user_title: 'About', user_url: '/about/'}
-  - { user_title: 'GitHub', user_url: "https://github.com/vriibot/insta-calendar"}
+  - { user_title: 'GitHub', user_url: "https://github.com/rippedflyers/osaka"}
   - { user_title: "RSS Feed", user_title_ja: "RSSフィード", user_url: "/feed.xml" }
 
 # Social / dark mode settings

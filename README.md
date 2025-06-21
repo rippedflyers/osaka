@@ -1,6 +1,6 @@
 # osaka.rippedflyers
 
-Website for gigs in Osaka. WIP Name.
+Website for gigs and shit in Osaka. WIP Name.
 
 Website code is maintained [here](https://github.com/vriibot/insta-calendar).
 
