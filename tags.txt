@@ -1,9 +1,13 @@
 punk
 hardcore
+industrial
+*post hardcore
+*POST HARDCORE=post hardcore
 rock'n'roll
 rock
 metal
 hiphop
+shoegaze
 chiptune
 pop
 alternative
@@ -22,44 +26,50 @@ alternative
 -pub
 -rockbar
 -livemusicvenue
-SECONDLADY
-*THE EEE
-NUMBERNINE
+*All I Clacks
+*ANGER FLARES
+ASPHALT
+*A.S.S.
+BLONDnewHALF
+*BOOTCAMP (from Iowa USA)
+CELL
 *FIVE NO RISK
+*FUCKIN'JUNKIES=FUCKIN' JUNKIES
+*FUCKIN' JUNKIES
 Junkie58%
-*The Dahlia
+NUMBERNINE
 *May Forth
+*MR.シーチキンパイルドライバー
+SECONDLADY
+*S.O.H(LA)
+*ÜGA BÜGA(Virginia)
+*The Dahlia
+*THE EEE
+*THE FRAGILE
+*THE MISANCHOLY
+*THE MY BABY IS A HEAD FUCK
 *The Populace 
 *ザ・パピュレイス=The Populace
-*THE FRAGILE
+*The Samemugz
 *The Vapes
+TIVE
+*TONE DEAF
 OOZE
-*THE MY BABY IS A HEAD FUCK
-*FUCKIN'JUNKIES
-*MR.シーチキンパイルドライバー
 *PiPi
 油すまし
 OMRIC
-ASPHALT
-*A.S.S.
-CELL
 IMAGEDAWN
 paciência
-BLONDnewHALF
 桃尻東京テレビジョン
 殄天戮
 *MAMBA BITES(Swiss)
 *NAUFRAGE(Swiss)
 *Only ugly stops
 *ノラ一味
-*The Samemugz
 *HELLO BASTARDS(UK)
-TIVE
 WARHEAD
 *CANDY(US)
 SUGAR
-*ANGER FLARES
-*FUCKIN' JUNKIES
 *ReVERSE BOYZ
 kitsunevi
 daisycall
