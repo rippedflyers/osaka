@@ -21,6 +21,9 @@ alternative
 -musicbarhokage
 -hokage
 -osaka
+-shinsaibashi
+-namba
+-japangigs
 -osakabar
 -livepub
 -japan
