@@ -8,7 +8,9 @@ rock
 metal
 hiphop
 shoegaze
+emo
 chiptune
+idol
 pop
 alternative
 -repost
@@ -30,18 +32,25 @@ alternative
 *ANGER FLARES
 ASPHALT
 *A.S.S.
+BlackLab
 BLONDnewHALF
 *BOOTCAMP (from Iowa USA)
 CELL
+CYBERNE
 *FIVE NO RISK
 *FUCKIN'JUNKIES=FUCKIN' JUNKIES
 *FUCKIN' JUNKIES
+*GOOD MORNING
+kidaki
+*MILKY WING
 Junkie58%
 NUMBERNINE
 *May Forth
 *MR.シーチキンパイルドライバー
 SECONDLADY
+*シマクマガンホーズ
 *S.O.H(LA)
+*SUNSHINE DUB
 *ÜGA BÜGA(Virginia)
 *The Dahlia
 *THE EEE
@@ -51,11 +60,17 @@ SECONDLADY
 *The Populace 
 *ザ・パピュレイス=The Populace
 *The Samemugz
+*THE☆ツイてるズ
+*ザ☆ツイてるズ=THE☆ツイてるズ
+*THEツイてるズ=THE☆ツイてるズ
 *The Vapes
 TIVE
 *TONE DEAF
 OOZE
 *PiPi
+*poetry of torch
+UCC
+unai
 油すまし
 OMRIC
 IMAGEDAWN
