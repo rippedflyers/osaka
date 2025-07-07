@@ -1,3 +1,4 @@
+alternative
 punk
 hardcore
 industrial
@@ -12,7 +13,6 @@ emo
 chiptune
 idol
 pop
-alternative
 -repost
 -火影
 -毎日がスペシャル
@@ -32,6 +32,7 @@ alternative
 -rockbar
 -livemusicvenue
 *All I Clacks
+*Amommoth
 *ANGER FLARES
 ASPHALT
 *A.S.S.
@@ -40,6 +41,8 @@ BLONDnewHALF
 *BOOTCAMP (from Iowa USA)
 CELL
 CYBERNE
+*DOWNED
+*FALLEN GRACE
 *FIVE NO RISK
 *FUCKIN'JUNKIES=FUCKIN' JUNKIES
 *FUCKIN' JUNKIES
@@ -48,8 +51,10 @@ CYBERNE
 kidaki
 kitsunevi
 kurage
+KUROYURI
 *MILKY WING
 Junkie58%
+*Lightning Swells Forever
 NUMBERNINE
 *May Forth
 *MR.シーチキンパイルドライバー
@@ -79,10 +84,13 @@ OMRIC
 OOZE
 *PiPi
 *poetry of torch
+*ROVING GRANDPA
 UCC
 unai
+*UNHOLY 11
 *VEXATION SOUL
 *wait!!!
+walkslowly
 WARHEAD
 油すまし
 IMAGEDAWN
@@ -96,4 +104,5 @@ paciência
 *CANDY(US)
 SUGAR
 *ReVERSE BOYZ
+*REVERSE BOYZ=ReVERSE BOYZ
 daisycall
