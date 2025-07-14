@@ -31,6 +31,7 @@ pop
 -pub
 -rockbar
 -livemusicvenue
+*3springs
 *All I Clacks
 *Amommoth
 *ANGER FLARES
@@ -59,10 +60,22 @@ NUMBERNINE
 *May Forth
 *MR.シーチキンパイルドライバー
 日本少女
+OMRIC
+*Only ugly stops
+OOZE
+paciência
+*PiPi
+*poetry of torch
+*ROVING GRANDPA
+*ReVERSE BOYZ
+*REVERSE BOYZ=ReVERSE BOYZ
 SECONDLADY
+SKAFREAKS
 *千年メモリーズ
 *シマクマガンホーズ
 *S.O.H(LA)
+*STUCKS
+SUGAR
 *SUNSHINE DUB
 *ÜGA BÜGA(Virginia)
 *The Dahlia
@@ -72,29 +85,27 @@ SECONDLADY
 *THE MY BABY IS A HEAD FUCK
 *The Populace 
 *ザ・パピュレイス=The Populace
+*THE RUDEBOYS
 *The Samemugz
+*the Samemugz=The Samemugz
 *THE☆ツイてるズ
 *ザ☆ツイてるズ=THE☆ツイてるズ
 *THEツイてるズ=THE☆ツイてるズ
 *The Vapes
 TIVE
 *TONE DEAF
-OMRIC
-*Only ugly stops
-OOZE
-*PiPi
-*poetry of torch
-*ROVING GRANDPA
+*Trash of Acon
 UCC
 unai
 *UNHOLY 11
 *VEXATION SOUL
+*Voracious Soul
 *wait!!!
 walkslowly
 WARHEAD
+*WAY DO THRU
 油すまし
 IMAGEDAWN
-paciência
 桃尻東京テレビジョン
 殄天戮
 *MAMBA BITES(Swiss)
@@ -102,7 +113,5 @@ paciência
 *ノラ一味
 *HELLO BASTARDS(UK)
 *CANDY(US)
-SUGAR
-*ReVERSE BOYZ
-*REVERSE BOYZ=ReVERSE BOYZ
 daisycall
+*X-V.I.D.E.O
