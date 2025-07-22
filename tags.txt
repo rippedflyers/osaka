@@ -29,6 +29,8 @@ pop
 -japan
 -bar
 -pub
+-gigs
+-live
 -rockbar
 -livemusicvenue
 *3springs
@@ -39,8 +41,12 @@ ASPHALT
 *A.S.S.
 BlackLab
 BLONDnewHALF
+*BONEPUZZLE
 *BOOTCAMP (from Iowa USA)
+*B-SIDE APPROACH
 CELL
+*CHIKAN
+*COLDFISH
 CYBERNE
 *DOWNED
 *FALLEN GRACE
@@ -49,6 +55,9 @@ CYBERNE
 *FUCKIN' JUNKIES
 *GOOD MORNING
 *HADAKAEFUDA
+*HARD CORE DUDE
+*HELLO BASTARDS(UK)
+*House Of The Blood Choir
 kidaki
 kitsunevi
 kurage
@@ -64,16 +73,22 @@ OMRIC
 *Only ugly stops
 OOZE
 paciência
+*penisboys
 *PiPi
 *poetry of torch
-*ROVING GRANDPA
+*PRIVATE PRISONS(US)
+*privateprisons=PRIVATE PRISONS(US)
+*redmammoth
 *ReVERSE BOYZ
 *REVERSE BOYZ=ReVERSE BOYZ
+*ROVING GRANDPA
 SECONDLADY
 SKAFREAKS
 *千年メモリーズ
 *シマクマガンホーズ
 *S.O.H(LA)
+*STACKED STATE
+*stackedstate=STACKED STATE
 *STUCKS
 SUGAR
 *SUNSHINE DUB
@@ -93,6 +108,7 @@ SUGAR
 *THEツイてるズ=THE☆ツイてるズ
 *The Vapes
 TIVE
+*(told about) Bored Games
 *TONE DEAF
 *Trash of Acon
 UCC
@@ -111,7 +127,6 @@ IMAGEDAWN
 *MAMBA BITES(Swiss)
 *NAUFRAGE(Swiss)
 *ノラ一味
-*HELLO BASTARDS(UK)
 *CANDY(US)
 daisycall
 *X-V.I.D.E.O
