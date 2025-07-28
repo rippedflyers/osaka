@@ -2,6 +2,8 @@ import demoji
 
 def filter(description):
     '''Custom filter for titles here.'''
+
+    #first parse
     for line in description.split("\n"):
         line = line.strip()
         if line.startswith("[") and line.strip().endswith("]"):
@@ -16,7 +18,11 @@ def filter(description):
             return line.strip()
         if " vol." in line.strip().lower():
             return line.strip()
+        
+    #second parse
     for line in description.split("\n"):
         line = line.strip()
         if line.endswith('】'): return line
+        if "release party" in line.lower():
+            return line
     return None
