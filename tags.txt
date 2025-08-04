@@ -6,6 +6,8 @@ industrial
 *POST HARDCORE=post hardcore
 rock'n'roll
 rock
+ロック=rock
+ロックンロール=rock'n'roll
 metal
 hiphop
 shoegaze
@@ -15,6 +17,16 @@ idol
 pop
 -repost
 -火影
+-難波Mele
+-mambamele
+-ナンバメレ
+-難波メレ
+-ライブ
+-livehouse
+-大阪
+-カワバタケイタ
+-出演バンド募集中
+-出演バンド募集
 -毎日がスペシャル
 -ライブハウス
 -ホカゲ
@@ -53,6 +65,8 @@ CYBERNE
 *FIVE NO RISK
 *FUCKIN'JUNKIES=FUCKIN' JUNKIES
 *FUCKIN' JUNKIES
+*FUJIYAMA BEAT CLUB
+fujiyamabeatclub=FUJIYAMA BEAT CLUB
 *GOOD MORNING
 *HADAKAEFUDA
 *HARD CORE DUDE
@@ -66,6 +80,7 @@ KUROYURI
 *MILKY WING
 Junkie58%
 *Lightning Swells Forever
+lightningswellsforever=Lightning Swells Forever
 *NATURAL KILLERS
 NUMBERNINE
 *May Forth
@@ -85,12 +100,15 @@ paciência
 *REVERSE BOYZ=ReVERSE BOYZ
 *ROVING GRANDPA
 SECONDLADY
+SEX FRIENDS
+sexfriends=SEX FRIENDS
 SKAFREAKS
 *千年メモリーズ
 *シマクマガンホーズ
 *S.O.H(LA)
 *STACKED STATE
 *stackedstate=STACKED STATE
+*STIR UP SHIT
 *STUCKS
 SUGAR
 *SUNSHINE DUB
@@ -100,6 +118,7 @@ SUGAR
 *THE EEE
 EEE=THE EEE
 *THE FRAGILE
+thefragile=THE FRAGILE
 *THE MISANCHOLY
 *THE MY BABY IS A HEAD FUCK
 *The Populace 
@@ -110,6 +129,8 @@ EEE=THE EEE
 *THE☆ツイてるズ
 *ザ☆ツイてるズ=THE☆ツイてるズ
 *THEツイてるズ=THE☆ツイてるズ
+*THE SLACKS
+theslacks=THE SLACKS
 *The Vapes
 TIVE
 *(told about) Bored Games
