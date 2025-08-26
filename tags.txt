@@ -52,6 +52,7 @@ pop
 *ANGER FLARES
 ASPHALT
 *A.S.S.
+BRAVEOUT
 BlackLab
 BLONDnewHALF
 *BONEPUZZLE
@@ -74,6 +75,7 @@ fujiyamabeatclub=FUJIYAMA BEAT CLUB
 *HELLO BASTARDS(UK)
 *House Of The Blood Choir
 IMAGEDAWN
+INITIATE(from USA)
 kidaki
 kitsunevi
 kurage
@@ -84,6 +86,7 @@ Junkie58%
 lightningswellsforever=Lightning Swells Forever
 *NATURAL KILLERS
 NUMBERNINE
+*NUMBER NINE=NUMBERNINE
 *May Forth
 *MR.シーチキンパイルドライバー
 日本少女
@@ -96,6 +99,8 @@ paciência
 *poetry of torch
 *PRIVATE PRISONS(US)
 *privateprisons=PRIVATE PRISONS(US)
+recess
+*RECLUSE
 *redmammoth
 *ReVERSE BOYZ
 *REVERSE BOYZ=ReVERSE BOYZ
@@ -114,6 +119,8 @@ SKAFREAKS
 SUGAR
 *SUNSHINE DUB
 *ÜGA BÜGA(Virginia)
+UNHOLY11
+*UNMASK aLIVE
 *THE BAWDIES
 *The Dahlia
 *THE EEE
@@ -156,3 +163,4 @@ WARHEAD
 *CANDY(US)
 daisycall
 *X-V.I.D.E.O
+*ZETTON
