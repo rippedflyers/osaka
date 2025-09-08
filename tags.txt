@@ -8,6 +8,9 @@ rock'n'roll
 rock
 ロック=rock
 ロックンロール=rock'n'roll
+*new wave
+newwavemusic=new wave
+newwave=new wave
 metal
 hiphop
 shoegaze
@@ -37,12 +40,14 @@ pop
 -shinsaibashi
 -namba
 -japangigs
+-japantour
 -osakabar
 -livepub
 -japan
 -bar
 -pub
 -gigs
+-gogs
 -live
 -rockbar
 -livemusicvenue
@@ -52,6 +57,8 @@ pop
 *ANGER FLARES
 ASPHALT
 *A.S.S.
+*BRAVE NEW WORLD(Aus)
+bravenewworld=BRAVE NEW WORLD(Aus)
 BRAVEOUT
 BlackLab
 BLONDnewHALF
@@ -61,6 +68,8 @@ BLONDnewHALF
 CELL
 *CHIKAN
 *COLDFISH
+*colocolobomboms
+コロコロボンボンズ=colocolobomboms
 CYBERNE
 *DOWNED
 *FALLEN GRACE
@@ -111,6 +120,8 @@ sexfriends=SEX FRIENDS
 SKAFREAKS
 *千年メモリーズ
 *シマクマガンホーズ
+*しんぐべー(黒色青年)
+しんぐべー#黒色青年=しんぐべー(黒色青年)
 *S.O.H(LA)
 *STACKED STATE
 *stackedstate=STACKED STATE
@@ -139,9 +150,11 @@ thefragile=THE FRAGILE
 *THEツイてるズ=THE☆ツイてるズ
 *THE SLACKS
 theslacks=THE SLACKS
+*THE.S.O.S
 *The Vapes
 TIVE
 *(told about) Bored Games
+(told about)Bored Games=(told about) Bored Games
 *TONE DEAF
 *Trash of Acorn
 *Trash of Acon=Trash of Acorn
@@ -164,3 +177,5 @@ WARHEAD
 daisycall
 *X-V.I.D.E.O
 *ZETTON
+*50/50s
+#50/50s=50/50s
