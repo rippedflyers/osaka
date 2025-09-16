@@ -38,6 +38,8 @@ pop
 -hokage
 -osaka
 -shinsaibashi
+-戦国大統領
+-mmk
 -namba
 -japangigs
 -japantour
@@ -154,7 +156,7 @@ theslacks=THE SLACKS
 *The Vapes
 TIVE
 *(told about) Bored Games
-(told about)Bored Games=(told about) Bored Games
+*(told about)Bored Games=(told about) Bored Games
 *TONE DEAF
 *Trash of Acorn
 *Trash of Acon=Trash of Acorn
