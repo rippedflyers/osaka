@@ -24,6 +24,7 @@ pop
 -mambamele
 -ナンバメレ
 -難波メレ
+-mmc
 -osakapunkdj
 -ライブ
 -livehouse
@@ -31,9 +32,9 @@ pop
 -カワバタケイタ
 -出演バンド募集中
 -出演バンド募集
--毎日がスペシャル
+-毎日がスペシャル
 -ライブハウス
--ホカゲ
+-ホカゲ
 -musicbarhokage
 -hokage
 -osaka
@@ -53,7 +54,6 @@ pop
 -live
 -rockbar
 -livemusicvenue
-*3springs
 *All I Clacks
 *Amommoth
 *ANGER FLARES
@@ -66,27 +66,38 @@ BlackLab
 BLONDnewHALF
 *BONEPUZZLE
 *BOOTCAMP (from Iowa USA)
+*Brother Sister
+*ブラザーシスター=Brother Sister
 *B-SIDE APPROACH
 CELL
 *CHIKAN
+*クリトリック・リス
+クリトリックリス=クリトリック・リス
+clitoricris=クリトリック・リス
 *COLDFISH
 *colocolobomboms
 コロコロボンボンズ=colocolobomboms
 CYBERNE
 *DOWNED
+*FAKE DUB BAND
 *FALLEN GRACE
 *FIVE NO RISK
 *FUCKIN'JUNKIES=FUCKIN' JUNKIES
 *FUCKIN' JUNKIES
 *FUJIYAMA BEAT CLUB
 fujiyamabeatclub=FUJIYAMA BEAT CLUB
+GASOLINE
+*gasoline=GASOLINE
 *GOOD MORNING
 *HADAKAEFUDA
+*half years ROM
+*halfyearsrom=half years ROM
 *HARD CORE DUDE
 *HELLO BASTARDS(UK)
 *House Of The Blood Choir
 IMAGEDAWN
 INITIATE(from USA)
+蟹光船
 kidaki
 kitsunevi
 kurage
@@ -95,12 +106,15 @@ KUROYURI
 Junkie58%
 *Lightning Swells Forever
 lightningswellsforever=Lightning Swells Forever
+*May Forth
+メルシー
+*MR.シーチキンパイルドライバー
 *NATURAL KILLERS
 NUMBERNINE
 *NUMBER NINE=NUMBERNINE
-*May Forth
-*MR.シーチキンパイルドライバー
 日本少女
+*Obake-Numa2 ~after the night race~
+*obakenuma2afterthenightrace~=Obake-Numa2 ~after the night race~
 OMRIC
 *Only ugly stops
 OOZE
@@ -116,6 +130,7 @@ recess
 *ReVERSE BOYZ
 *REVERSE BOYZ=ReVERSE BOYZ
 *ROVING GRANDPA
+*SAGE HARDWARE(US)
 SECONDLADY
 SEX FRIENDS
 sexfriends=SEX FRIENDS
@@ -135,6 +150,8 @@ SUGAR
 UNHOLY11
 *UNMASK aLIVE
 *THE BAWDIES
+*THE BLACK DOLPHINS
+theblackdolphins=THE BLACK DOLPHINS
 *The Dahlia
 *THE EEE
 EEE=THE EEE
@@ -142,12 +159,18 @@ EEE=THE EEE
 thefragile=THE FRAGILE
 *THE MISANCHOLY
 *THE MY BABY IS A HEAD FUCK
+*THE NUGGETS
+*ナゲッツ=THE NUGGETS
+*thenuggets=THE NUGGETS
+*THE PERRY
+theperry=THE PERRY
 *The Populace 
 *ザ・パピュレイス=The Populace
 *THE RUDEBOYS
 *The Samemugz
 *the Samemugz=The Samemugz
 *THE☆ツイてるズ
+*THE ツイてるズ=THE☆ツイてるズ
 *ザ☆ツイてるズ=THE☆ツイてるズ
 *THEツイてるズ=THE☆ツイてるズ
 *THE SLACKS
@@ -179,5 +202,8 @@ WARHEAD
 daisycall
 *X-V.I.D.E.O
 *ZETTON
+*333
+*3springs
+*3Springs=3springs
 *50/50s
 #50/50s=50/50s
