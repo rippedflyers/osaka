@@ -69,6 +69,7 @@ BLONDnewHALF
 *Brother Sister
 *ブラザーシスター=Brother Sister
 *B-SIDE APPROACH
+*B Side Approach=B-SIDE APPROACH
 CELL
 *CHIKAN
 *クリトリック・リス
@@ -77,6 +78,7 @@ clitoricris=クリトリック・リス
 *COLDFISH
 *colocolobomboms
 コロコロボンボンズ=colocolobomboms
+*CROW DRAGON TEA
 CYBERNE
 *DOWNED
 *FAKE DUB BAND
@@ -109,6 +111,7 @@ lightningswellsforever=Lightning Swells Forever
 *May Forth
 メルシー
 *MR.シーチキンパイルドライバー
+*MRシーチキンパイルドライバ=MR.シーチキンパイルドライバー
 *NATURAL KILLERS
 NUMBERNINE
 *NUMBER NINE=NUMBERNINE
@@ -132,9 +135,11 @@ recess
 *ROVING GRANDPA
 *SAGE HARDWARE(US)
 SECONDLADY
+*SECOND LADY=SECONDLADY
 SEX FRIENDS
 sexfriends=SEX FRIENDS
 SKAFREAKS
+*SK8NIKS
 *千年メモリーズ
 *シマクマガンホーズ
 *しんぐべー(黒色青年)
@@ -183,6 +188,7 @@ TIVE
 *TONE DEAF
 *Trash of Acorn
 *Trash of Acon=Trash of Acorn
+*Trash Of Acorn=Trash of Acorn
 UCC
 unai
 *UNHOLY 11
