@@ -22,7 +22,6 @@ collections:
   posts:
     output: true
     permalink: /p/:title
-  add author pages:
   authors:
     output: true
     permalink: /a/:title
@@ -37,6 +36,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
 
 footer_links:
   - { user_title: 'About', user_url: '/about/'}
@@ -72,6 +76,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-webp
 
-# # Pagination settings
+# Pagination settings
 # paginate: 10
 # paginate_path: page/:num/
