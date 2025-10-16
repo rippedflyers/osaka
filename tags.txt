@@ -184,6 +184,7 @@ theslacks=THE SLACKS
 *The Vapes
 TIVE
 *(told about) Bored Games
+*@toldaboutboredgames=(told about) Bored Games
 *(told about)Bored Games=(told about) Bored Games
 *TONE DEAF
 *Trash of Acorn
