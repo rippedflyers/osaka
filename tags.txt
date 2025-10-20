@@ -26,6 +26,7 @@ pop
 -難波メレ
 -mmc
 -osakapunkdj
+-大阪ライブハウス
 -ライブ
 -livehouse
 -大阪
@@ -130,6 +131,7 @@ paciência
 recess
 *RECLUSE
 *redmammoth
+*REDMAMMOTH=redmammoth
 *ReVERSE BOYZ
 *REVERSE BOYZ=ReVERSE BOYZ
 *ROVING GRANDPA
@@ -195,6 +197,7 @@ unai
 *UNHOLY 11
 *VEXATION SOUL
 *Voracious Soul
+*VORACIOUSSOUL=Voracious Soul
 *wait!!!
 walkslowly
 WARHEAD

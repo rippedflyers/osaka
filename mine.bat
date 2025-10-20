@@ -5,12 +5,12 @@ set SITE_DIR=site
 set COMMIT_MSG=Add Posts (Auto)
 
 
-@REM echo STEP 1: Run main.py
-@REM python main.py
-@REM if !ERRORLEVEL!  neq 0 (
-@REM     echo main.py failed!
-@REM     exit /b !ERRORLEVEL! 
-@REM )
+echo STEP 1: Run main.py
+python main.py
+if !ERRORLEVEL!  neq 0 (
+    echo main.py failed!
+    exit /b !ERRORLEVEL! 
+)
 
 set CHANGED=0
 git fetch origin >nul 2>&1
