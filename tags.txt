@@ -1,5 +1,6 @@
 alternative
 punk
+grindcore
 hardcore
 industrial
 *post hardcore
@@ -231,5 +232,6 @@ daisycall
 *333
 *3springs
 *3Springs=3springs
+*40 AgingBurgers
 *50/50s
 #50/50s=50/50s
