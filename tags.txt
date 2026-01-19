@@ -120,6 +120,7 @@ INITIATE(from USA)
 蟹光船
 kidaki
 kitsunevi
+*Knup 9th
 kurage
 KUROYURI
 *MILKY WING
@@ -233,5 +234,6 @@ daisycall
 *3springs
 *3Springs=3springs
 *40 AgingBurgers
+*40Aging Burgers=40 AgingBurgers
 *50/50s
 #50/50s=50/50s
