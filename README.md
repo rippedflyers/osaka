@@ -51,6 +51,14 @@ collections:
 
 You can include (or remove) the `authors.md` file in the root directory to provide a list of authors stylized as `places`.
 
+### Form Submission
+
+You can accept event submission using the free [https://formsubmit.co/](https://formsubmit.co/) service, which directs submissions to your email. 
+
+Just replace the `form_url` field in `_config.yml` and include the `submit.md` file in root. The current form can accept both instagram URLs and custom data (including images).
+
+There's no mechanism to automatically add submitted events.
+
 ### Language toggle
 Some basic client side translation is available. Define strings in `assets/js/strings_<lang>.json`. You can also define patterns. The general idea is to provide localisation of UI elements (where bilingual content is not really feasible) without generating two versions of the website.
 

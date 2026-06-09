@@ -18,6 +18,9 @@ lang_toggle:
     - { code: 'en', name: 'English'}
     - { code: 'ja', name: '日本語'}
 
+#form url
+form_url: https://formsubmit.co/your@email.com
+
 collections:
   posts:
     output: true
