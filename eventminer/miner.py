@@ -98,7 +98,7 @@ def process_media(m):
         'media_type':m.media_type,
         'image_versions2': m.image_versions2,
         # 'product_type': m.product_type,
-        # 'thumbnail_url': #httpURL
+        'thumbnail_url': str(m.thumbnail_url), #httpURL
         # 'location': m.location, #location
         # 'user': {
         #     'pk': m.user.pk,
