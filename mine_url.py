@@ -22,7 +22,9 @@ def main():
     
     #handle credentials
     eventminer.load_credentials()
-
+    #load config
+    eventminer.get_config()
+    
     eventminer.miner.UPLOADER = uploader
     #mine post
     eventminer.mine_post(url, FORCE)
