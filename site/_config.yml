@@ -19,7 +19,7 @@ lang_toggle:
     - { code: 'ja', name: '日本語'}
 
 #form url
-form_url: https://formsubmit.co/your@email.com
+form_url: https://formsubmit.co/4452a89dcca04e72109d04980192fe23
 
 collections:
   posts:
